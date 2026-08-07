@@ -1,5 +1,5 @@
 🧠 Architecture Decoder (AI Repo Analyzer)
-An autonomous developer tool that bridges the gap between "I built it with AI" and "I can explain it in an interview." Paste a GitHub repository URL, and the AI scrapes the file tree, reads the core files, and generates a complete architectural breakdown, an interactive AI mentor, and a difficulty-targeted interview simulator.
+An autonomous developer tool that bridges the gap between "I built it with AI" and "I can explain how it works and how I built it." Paste a GitHub repository URL, and the AI scrapes the file tree, reads the core files, and generates a complete architectural breakdown, an interactive AI mentor, and a difficulty-targeted interview simulator.
 
 🧠 How It Works
 - GitHub API Integration: The backend parses the URL and queries the GitHub Git Trees API to fetch the complete file structure.
@@ -21,4 +21,4 @@ An autonomous developer tool that bridges the gap between "I built it with AI" a
 - Dynamic Prompt Engineering: Architected a dynamic prompt pipeline that adjusts the difficulty of the generated interview questions based on user input, mapping subconscious code logic to formal industry jargon.
 - Interactive RAG Mentor: Built a secondary chat API route that maintains conversational context, allowing developers to interrogate their own codebase architecture in real-time.
 
-🚀 Live Demo URL: (https://arch-decoder-ai.vercel.app/)]
+🚀 Live Demo URL: (https://arch-decoder-ai.vercel.app/)
